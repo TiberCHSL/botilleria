@@ -8,5 +8,10 @@ price = ""
 alcohol_percentage = ""
 volume = "" ##Litros
 
+class worker
+
+
+class provider
+
 
 
