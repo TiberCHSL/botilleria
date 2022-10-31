@@ -23,6 +23,8 @@ class product
   expiration_warning() ##Avisa cuando un producto se acerca a su fecha de caducidad
   show_data() ##Mostrar los datos en pantalla
   update_stock() ##Actualizar el stock al adquirir productos al proveedor
+  update_prov_price() ##Actualizar precio de compra
+  update_price() ##Actualizar precio de venta
   apply_discount() ##Aplicar descuento a los productos que lo requieran
 }
 
