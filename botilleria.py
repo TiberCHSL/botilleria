@@ -26,6 +26,7 @@ class product
   update_prov_price() ##Actualizar precio de compra
   update_price() ##Actualizar precio de venta
   apply_discount() ##Aplicar descuento a los productos que lo requieran
+  calculate_profit() ##Calcular las ganancias entre el precio del proveedor y el precio de venta
 }
 
 
